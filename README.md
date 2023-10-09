@@ -18,9 +18,6 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/leandro-r-s-751b68260/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/leandro-r-s-751b68260/">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=leandrorsant&style=flat-square&color=blue" alt=""/>
 </div>
