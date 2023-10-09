@@ -36,13 +36,13 @@ Here are some ideas to get you started:
 
 ### 👨‍💻: About Me :
 I am a Full Stack Developer from Brazil.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m a tech enthusiast currently working on backend and mobile app development
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Cross-Platform Mobile Development 📱
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve math problems on Project Euler, and I like to watch Anime 🍣
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Leandro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-r-s-751b68260)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Leandro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-r-s-751b68260) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ramosdossantos.leandro@gmail.com) 
 
 
 ---
