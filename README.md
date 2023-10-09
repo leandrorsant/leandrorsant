@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-  Hey there👋
+  Hey There👋
 </h1>
 
 <div align="center">
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 👨‍💻_technologist: About Me :
+### 👨‍💻: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
