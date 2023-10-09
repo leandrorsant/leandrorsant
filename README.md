@@ -42,7 +42,7 @@ I am a Full Stack Developer from Brazil.
 
 - :zap: In my free time, I solve math problems on Project Euler, and I like to watch Anime 🍣
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Leandro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-r-s-751b68260) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](ramosdossantos.leandro@gmail.com) 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Leandro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-r-s-751b68260) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](<a href="mailto:email@example.com">Send Email</a>) 
 
 
 ---
