@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif"/>
 </div>
 
 ---
