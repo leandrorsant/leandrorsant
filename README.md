@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ---
 
 ### 👨‍💻: About Me :
-I am a Full Stack Developer from Brazil.
+I am a Software Developer.
 - :telescope: I’m a tech enthusiast currently working on backend and mobile app development
 
 - :seedling: Exploring Cross-Platform Mobile Development 📱
