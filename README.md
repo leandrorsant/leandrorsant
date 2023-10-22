@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 ---
 
 ### 👨‍💻: About Me :
-I am a Software Developer.
 I got hooked in the world of programming back in my school days when I found out it was possible automate my homework. I learned a bit of C language and proceeded to try and solve some math equations with it. Programming has been part of my life and my favorite hobby. I always look at problems thinking of ways I can break them into patterns which can be solved programmatically. I graduated college as a Systems Analyst. I'm interested in contributing to any interesting projects. If you'd like to have me on your team, be sure to reach out.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Leandro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-r-s-751b68260) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ramosdossantos.leandro@gmail.com) 
