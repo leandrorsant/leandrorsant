@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ---
 
 ### 👨‍💻: About Me :
-Hello there, I'm a Systems Analyst and this is the repository where I showcase some of my work. I'm interested in contributing to interesting projects. If you'd like to have me on your team, be sure to reach out.
+Hello there, I'm a systems analyst and this is the repository where I showcase some of my work. I'm interested in contributing to interesting projects. If you'd like to have me on your team, be sure to reach out.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Leandro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-r-s-751b68260) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ramosdossantos.leandro@gmail.com) 
 
